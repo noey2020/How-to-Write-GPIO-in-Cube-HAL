@@ -8,7 +8,8 @@ library is enormous or "bloated" as others would describe. I managed to trim it 
 copying only the relevant directory files but it was still a lot of code considering I
 was only going to just blink two LEDs. Instead of tweaking the include paths so the
 compiler will find my files and any libraries, I just copy and maintained the same 
-directory structure. Take a cue from "Options for Target".
+directory structure. Sometimes, if you break the dependencies, it is more troublesome
+so maintain what's working! Take a cue from "Options for Target".
 
 C/C++ Tab
 
