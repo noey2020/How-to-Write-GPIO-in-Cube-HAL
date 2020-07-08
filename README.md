@@ -2,6 +2,10 @@
 
 Tweaking HAL SPL Library		June 30, 2020
 
+I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
+
+Hire Me!
+
 I chose to test the CubeL1 HAL standard library to get the gpio LEDs blinking on my 
 STM32L1 Discovery board. It confirmed that it is a "One Size Fits All" meaning the
 library is enormous or "bloated" as others would describe. I managed to trim it down by
@@ -33,5 +37,9 @@ stumbled into the assert errors. "Not enough symbols..." you know. I used #defin
 to no avail.
 
 Anyways, time to study and write newer code based on HAL instead of SPL.
+
+I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
+
+Hire Me!
 
 Happy coding!
